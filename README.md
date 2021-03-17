@@ -1,6 +1,27 @@
-# Getting Started with Create React App
+# Search for Videos App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project comprises a basic search bar that retrieves videos from [YouTube's Search:list API](https://developers.google.com/youtube/v3/docs/search/list) and displays a list of video results in a CSS Grid along with a video player for the selected video.  We leverage [Semantic UI's](https://semantic-ui.com/) free stylesheet for styling our app (stylesheet href link included in index.html) - this saves time and ensures the project's primary focus is practicing React JS concepts.
+
+This project is one of the practice exercises for Stephen Grider's Udemy course, [Modern React with Redux](https://www.udemy.com/course/react-redux/).  The project helps practice using core React JS concepts including the following:  
+1) Building Content with JSX
+2) Communicating with Props
+3) Structuring Apps with Class-Based Components
+4) State in React Component
+5) Understanding Lifecycle Methods
+6) Handling User Input with Forms and Events
+7) Making API Requests with React
+8) Building Lists of Records
+9) Using Ref's for DOM Access
+
+## Result - Demo
+![Search Pics App](pics-demo-cars.gif)
+
+
+## Setting up the APIs
+### Step 1: Sign-up for developer API keys
+This project uses the [YouTube's Search:list API](https://developers.google.com/youtube/v3/docs/search/list).  To use YouTube's API, you can sign up for a free Google developer API key [here](https://console.developers.google.com/).  If this is your first time using Google's APIs, you'll first need to create a project after initial sign-up, afterwhich you can create credentials for that project.
+
 
 ## Available Scripts
 
