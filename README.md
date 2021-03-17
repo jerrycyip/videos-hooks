@@ -15,12 +15,12 @@ This project is one of the practice exercises for Stephen Grider's Udemy course,
 9) Using Ref's for DOM Access
 
 ## Result - Demo
-![Search Pics App](pics-demo-cars.gif)
+![Search Pics App](videos-demo.gif)
 
 
 ## Setting up the APIs
 ### Step 1: Sign-up for developer API keys
-This project uses the [YouTube's Search:list API](https://developers.google.com/youtube/v3/docs/search/list).  To use YouTube's API, you can sign up for a free Google developer API key [here](https://console.developers.google.com/).  If this is your first time using Google's APIs, you'll first need to create a project after initial sign-up, afterwhich you can create credentials for that project.
+This project uses the [YouTube's Search:list API](https://developers.google.com/youtube/v3/docs/search/list).  To use YouTube's API, you can sign up for a free Google developer API key [here](https://console.developers.google.com/).  If this is your first time using Google's APIs, you'll first need to create a 'new project' after initial sign-up, afterwhich you can create associated credentials for use in the Videos App.
 
 
 ## Available Scripts
