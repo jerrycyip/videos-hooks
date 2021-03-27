@@ -15,7 +15,7 @@ This project is one of the practice exercises for Stephen Grider's Udemy course,
 9) Using Ref's for DOM Access
 ...
 12) Understanding Hooks in React 
-13) Hooks in Practice (including customer hooks)
+13) Hooks in Practice (including creating custom hooks)
 
 ## Result - Demo
 ![Search Pics App](videos-demo.gif)
