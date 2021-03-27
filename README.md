@@ -16,8 +16,10 @@ This project is one of the practice exercises for Stephen Grider's Udemy course,
 ...
 12) Understanding Hooks in React 
 13) Hooks in Practice (including creating custom hooks)
+14) Deploying a React App
 
 ## Result - Demo
+This app is also hosted publicly [here](https://videos-hooks-qi6098n8y-jerrycyip.vercel.app/)
 ![Search Pics App](videos-demo.gif)
 
 
