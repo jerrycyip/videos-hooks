@@ -13,7 +13,7 @@ This project is one of the practice exercises for Stephen Grider's Udemy course,
 7) Making API Requests with React
 8) Building Lists of Records
 9) Using Ref's for DOM Access
-"..."
+...
 12) Understanding Hooks in React 
 13) Hooks in Practice (including customer hooks)
 
