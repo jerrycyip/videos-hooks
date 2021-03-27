@@ -1,7 +1,7 @@
 # Search for Videos App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-This project comprises a basic search bar that retrieves videos from [YouTube's Search:list API](https://developers.google.com/youtube/v3/docs/search/list) and displays a list of video results in a CSS Grid along with a video player for the selected video.  We leverage [Semantic UI's](https://semantic-ui.com/) free stylesheet for styling our app (stylesheet href link included in index.html) - this saves time and ensures the project's primary focus is practicing React JS concepts.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).  
+This project comprises a refactor of the existing 'videos' repository using functional components and hooks instead of class components and lifecycle methods.  Funtionally, the project comprises the same functionality, that is, a basic search bar that retrieves videos from [YouTube's Search:list API](https://developers.google.com/youtube/v3/docs/search/list) and displays a list of video results in a CSS Grid along with a video player for the selected video.  We leverage [Semantic UI's](https://semantic-ui.com/) free stylesheet for styling our app (stylesheet href link included in index.html) - this saves time and ensures the project's primary focus is practicing React JS concepts.
 
 This project is one of the practice exercises for Stephen Grider's Udemy course, [Modern React with Redux](https://www.udemy.com/course/react-redux/).  The project helps practice using core React JS concepts including the following:  
 1) Building Content with JSX
@@ -13,6 +13,8 @@ This project is one of the practice exercises for Stephen Grider's Udemy course,
 7) Making API Requests with React
 8) Building Lists of Records
 9) Using Ref's for DOM Access
+...12) Understanding Hooks in React 
+13) Hooks in Practice (including customer hooks)
 
 ## Result - Demo
 ![Search Pics App](videos-demo.gif)
